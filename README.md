@@ -52,7 +52,7 @@ You can access the full presentation and materials by:
 
 ## 1. **Cloning the Repository**
 
-git clone https://github.com/InfosecWanderer/Presentation---Vendor-Third-party-Security-Risk-Assessment.git
+git clone https://github.com/InfosecWanderer/Presentation-Vendor-Third-party-Security-Risk-Assessment.git
 
 ## 2. **Downloading as a ZIP**
 
