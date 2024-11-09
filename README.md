@@ -50,20 +50,21 @@ This presentation offers valuable insights into managing third-party vendor secu
 
 You can access the full presentation and materials by:
 
-### 1. **Cloning the Repository**
+## 1. **Cloning the Repository**
 
 git clone https://github.com/InfosecWanderer/Presentation---Vendor-Third-party-Security-Risk-Assessment.git
 
-### 2. **Downloading as a ZIP**
+## 2. **Downloading as a ZIP**
 
 - Go to the repository page.
 - Click **Code** → **Download ZIP**.
 
-### 3. **Viewing Online**
+## 3. **Viewing Online**
 
 Browse and view the repository files directly on GitHub.
 
 ---
+
 ![image](https://github.com/user-attachments/assets/953b8d7f-e070-481d-b6cd-791608e58b61)
 ![image](https://github.com/user-attachments/assets/ed22dc89-3448-46d0-8c23-ca548367ec05)
 ![image](https://github.com/user-attachments/assets/76ef242f-aab2-4749-8c1f-3f5e730f145a)
