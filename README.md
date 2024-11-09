@@ -43,3 +43,24 @@ This presentation offers valuable insights into managing third-party vendor secu
 ## How to Use This Repository
 - **Download the Presentation**: Full presentation deck is available for reference.
 - **Review the Case Study**: Learn from the Equifax 2017 breach to improve vendor risk management.
+
+---
+
+## How to Download or View This Repository
+
+You can access the full presentation and materials by:
+
+### 1. **Cloning the Repository**
+
+git clone https://github.com/InfosecWanderer/Presentation---Vendor-Third-party-Security-Risk-Assessment.git
+
+### 2. **Downloading as a ZIP**
+
+- Go to the repository page.
+- Click **Code** → **Download ZIP**.
+
+### 3. **Viewing Online**
+
+Browse and view the repository files directly on GitHub.
+
+---
